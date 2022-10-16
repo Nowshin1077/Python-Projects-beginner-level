@@ -1,2 +1,2 @@
 # Python-Projects---Small
-This repository is consist of small size python projects that I made for practice purpose.
+This repository contains small-size python projects that I made for practice purposes. You can practice these projects as a beginner.
